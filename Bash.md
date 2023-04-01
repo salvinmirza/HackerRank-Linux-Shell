@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=HvzI7c3eK5k&ab_channel=LearnLinuxTV
 
 </br>
 
-<h6>Let's Echo</h6>
+<h6>Looping and Skipping</h6>
 
 ~~~bash
   for n in {1..99..2}
