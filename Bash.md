@@ -18,3 +18,10 @@ https://www.youtube.com/watch?v=HvzI7c3eK5k&ab_channel=LearnLinuxTV
       echo $n
   done
 ~~~
+
+<h6>A Personalized Echo</h6>
+
+~~~bash
+    read name
+    echo "Welcome $name"
+~~~
