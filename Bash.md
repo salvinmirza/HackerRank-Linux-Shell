@@ -8,8 +8,6 @@ https://www.youtube.com/watch?v=HvzI7c3eK5k&ab_channel=LearnLinuxTV
   echo "HELLO"
 ~~~
 
-</br>
-
 <h6>Looping and Skipping</h6>
 
 ~~~bash
@@ -24,4 +22,13 @@ https://www.youtube.com/watch?v=HvzI7c3eK5k&ab_channel=LearnLinuxTV
 ~~~bash
     read name
     echo "Welcome $name"
+~~~
+
+<h6>Looping with Numbers</h6>
+
+~~~bash
+    for n in {1..50}
+    do
+        echo $n
+    done
 ~~~
