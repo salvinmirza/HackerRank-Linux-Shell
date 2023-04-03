@@ -32,3 +32,15 @@ https://www.youtube.com/watch?v=HvzI7c3eK5k&ab_channel=LearnLinuxTV
         echo $n
     done
 ~~~
+
+<h6>The World of Numbers</h6>
+
+~~~bash
+    read X
+    read Y
+
+    echo "$(($X + $Y))"
+    echo "$(($X - $Y))"
+    echo "$(($X * $Y))"
+    echo "$(($X / $Y))"
+~~~
